@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ClionWorkSpace/untitled/proxy.cpp
+stdio.h
+-
+winsock2.h
+-
+Windows.h
+-
+process.h
+-
+string.h
+-
+iostream
+-
+

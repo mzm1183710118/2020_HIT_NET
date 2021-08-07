@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ClionWorkSpace/untitled/cache.cpp
+iostream
+-
+winsock2.h
+-
+string.h
+-
+
+D:/ClionWorkSpace/untitled/myProxy.cpp
+winsock2.h
+-
+process.h
+-
+string.h
+-
+iostream
+-
+cache.cpp
+D:/ClionWorkSpace/untitled/cache.cpp
+
